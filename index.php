@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <script src="https://kit.fontawesome.com/27373e05b0.js" crossorigin="anonymous"></script>
+    <title>Education</title>
+</head>
+<body>
+    
+    <header>
+        <div class="overlay">
+            <section class="container">
+                <div class="navbar">
+                    <div class="left-container">
+                        <div class="logo">
+                            <h1>Logo</h1>
+                        </div>
+                    </div>
+                    <div class="rigth-container">
+                        <div class="btn-menu-mobile"><i class="fas fa-bars"></i></div>
+                        <nav class="menu-desktop">
+                            <ul>
+                                <li><a href="">Home</a></li>
+                                <li><a href="">Cursos</a></li>
+                                <li><a href="">Eventos</a></li>
+                                <li><a href="">Novidades</a></li>
+                                <li><a href="">Contato</a></li>
+                                <li><a href="" class="btn-login">Login</a></li>
+                            </ul>
+                        </nav>
+                        <nav class="menu-mobile">
+                            <ul>
+                                <li><a href="">Home</a></li>
+                                <li><a href="">Cursos</a></li>
+                                <li><a href="">Eventos</a></li>
+                                <li><a href="">Novidades</a></li>
+                                <li><a href="">Contato</a></li>
+                                <li><a href="" class="btn-login">Login</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </section>
+            <div class="container">
+                <div class="clear"></div>
+                <div class="content-box">
+                    <div class="left-container">
+                        <div class="content-box-title">
+                            <h1 id="typewriter">A melhor Educação para você</h1>
+                        </div>
+                        <div class="content-box-body">
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. <br> Hic omnis eos beatae tenetur? Totam, placeat?</p>
+                            <a href="">Junte-se a Nós</a>
+                        </div>
+                    </div>
+                    <div class="rigth-container">
+                        <div class="formulario">
+                            <form action="" method="POST">
+                                <div class="form-title">
+                                    <h2>Solicitar Matrícula</h2>
+                                </div>
+                                <div class="form-body">
+                                    <label for="name">
+                                        <input type="text" name="name" placeholder="Nome">
+                                    </label>
+                                    <label for="email">
+                                        <input type="email" name="email" placeholder="Email">
+                                    </label>
+                                    <label for="password">
+                                        <input type="password" name="password" placeholder="Senha">
+                                    </label>
+                                    <input type="submit" class="btn-form" value="Solicitar Agora">
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section class="tree-itens">
+        <div class="container">
+            <div class="w33">
+                <div class="box-33">
+                    <i class="fas fa-book-reader"></i>
+                    <h2>Vida Universitária</h2>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsum, ullam. Eum odit ea totam nulla?</p>
+                </div>
+            </div>
+            <div class="w33">
+                <div class="box-33">
+                    <i class="fas fa-user-graduate"></i>
+                    <h2>Graduação</h2>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsum, ullam. Eum odit ea totam nulla?</p>
+                </div>
+            </div>
+            <div class="w33">
+                <div class="box-33">
+                    <i class="fas fa-share-alt"></i>
+                    <h2>Social</h2>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsum, ullam. Eum odit ea totam nulla?</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="clear"></div>
+
+    <section class="video-section">
+        <div class="container">
+            <div class="left-video">
+                <div class="video-img">
+                    <img src="assets/images/laptop.jpg">
+                </div>
+            </div>
+            <div class="rigth-video">
+                <div class="rigth-video-content">
+                    <h3>Sobre nós</h3>
+                    <h2>Bem Vindo a Nossa Plataforma</h2>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem magni aspernatur similique? Quas unde delectus illo est commodi error eveniet?</p>
+
+                    <h4>Por que nos escolher?</h4>
+                    <ul>
+                        <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, sint.</li>
+                        <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, sint.</li>
+                        <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, sint.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </section>
+
+    <section class="cursos">
+        <div class="container">
+            <div class="section-title">
+                <h3>Sobre nós</h3>
+                <h2>Nossos últimos cursos</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae similique sint enim nobis impedit provident!</p>
+            </div>
+            <div class="w33 p-0">
+                <div class="box-course">
+                    <div class="box-img">
+                        <img src="assets/images/laptop-student.jpg">
+                    </div>
+                    <div class="box-body">
+                        <div class="box-category">
+                            <h4>Science</h4>
+                        </div>
+                        <div class="body-title-box">
+                            <h2>Curse Title 1</h2>
+                        </div>
+                        <div class="body-box-text">
+                            <p>Lorem ipsum dolor sit amet sed sint ab quas dolorem aut.</p>
+                        </div>
+                    </div>
+                    <div class="box-footer">
+                        <div class="user-count">
+                            <i class="far fa-user"></i> 235
+                        </div>
+                        <div class="heart-count">
+                            <i class="far fa-heart"></i> 157
+                        </div>
+                        <div class="course-details">
+                            <strong>Ver mais</strong>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="w33 p-0">
+                <div class="box-course">
+                    <div class="box-img">
+                        <img src="assets/images/woman-student.jpg">
+                    </div>
+                    <div class="box-body">
+                        <div class="box-category">
+                            <h4>Business</h4>
+                        </div>
+                        <div class="body-title-box">
+                            <h2>Curse Title 1</h2>
+                        </div>
+                        <div class="body-box-text">
+                            <p>Lorem ipsum dolor sit amet sed sint ab quas dolorem aut.</p>
+                        </div>
+                    </div>
+                    <div class="box-footer">
+                        <div class="user-count">
+                            <i class="far fa-user"></i> 235
+                        </div>
+                        <div class="heart-count">
+                            <i class="far fa-heart"></i> 157
+                        </div>
+                        <div class="course-details">
+                            <strong>Ver mais</strong>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="w33 p-0">
+                <div class="box-course">
+                    <div class="box-img">
+                        <img src="assets/images/young-studentjpg.jpg">
+                    </div>
+                    <div class="box-body">
+                        <div class="box-category">
+                            <h4>English</h4>
+                        </div>
+                        <div class="body-title-box">
+                            <h2>Curse Title 1</h2>
+                        </div>
+                        <div class="body-box-text">
+                            <p>Lorem ipsum dolor sit amet sed sint ab quas dolorem aut.</p>
+                        </div>
+                    </div>
+                    <div class="box-footer">
+                        <div class="user-count">
+                            <i class="far fa-user"></i> 235
+                        </div>
+                        <div class="heart-count">
+                            <i class="far fa-heart"></i> 157
+                        </div>
+                        <div class="course-details">
+                            <strong>Ver mais</strong>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="clear"></div>
+
+    <section class="contact-courses">
+        <div class="container">
+            <h3>Uma forma de aprender mais rápido!</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae similique sint enim nobis impedit provident!</p>
+            <div class="button-contact">
+                <div class="button-icon-text-1">
+                    <i class="fas fa-clipboard"></i> Ver Cursos
+                </div>
+                <div class="button-icon-text-2">
+                    <i class="fas fa-phone-alt"></i> Suporte
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+    </section>
+    <div class="clear"></div>
+
+    <section class="events">
+        <div class="container">
+            <div class="left-container">
+                <div class="title-events">
+                    <h3>Veja todos os eventos</h3>
+                    <h2>Nossos próximos eventos</h2>
+                </div>
+            </div>
+            <div class="rigth-container">
+                <a href="" class="ajust">Veja todos os eventos</a>
+            </div>
+        </div>
+        <div class="clear"></div>
+        <div class="container">
+            <div class="left-container">
+                <div class="events-box-img">
+                    <div class="content-box-img">
+                        <p><span class="one">120</span> Days</p><p><span class="two">16</span> Hours</p><p><span class="tree">11</span> Minutes</p>
+                    </div>
+                    <div class="content-box-content">
+                        <p><span>Lorem ipsum dolor sit amet consectetur adipisicing elit...</span></p>
+                        <p><i class="far fa-calendar-alt"></i> 20/2020</p><p><i class="far fa-clock"></i> 4pm - 6pm</p>
+                        <p><i class="fas fa-map-marker-alt"></i> endereço, país</p>
+                    </div>
+                </div>
+            </div>
+            <div class="rigth-container">
+                <div class="box-events">
+                    <div class="box-img-events">
+                        <img src="assets/images/student.jpg">
+                    </div>
+                    <div class="box-content-events">
+                        <div class="title-box-events">
+                            Lorem, ipsum dolor sit amet elit dolor...
+                        </div>
+                        <div class="content-events-box-img">
+                            <i class="far fa-calendar-alt"></i> 20/2020 <i class="far fa-clock"></i> 4pm - 6pm <i class="fas fa-map-marker-alt"></i> 143, City-BR
+                        </div>
+                    </div>
+                </div>
+                <div class="box-events">
+                    <div class="box-img-events">
+                        <img src="assets/images/student.jpg">
+                    </div>
+                    <div class="box-content-events">
+                        <div class="title-box-events">
+                            Lorem, ipsum dolor sit amet elit dolor...
+                        </div>
+                        <div class="content-events-box-img">
+                            <i class="far fa-calendar-alt"></i> 20/2020 <i class="far fa-clock"></i> 4pm - 6pm <i class="fas fa-map-marker-alt"></i> 143, City-BR
+                        </div>
+                    </div>
+                </div>
+                <div class="box-events">
+                    <div class="box-img-events">
+                        <img src="assets/images/student.jpg">
+                    </div>
+                    <div class="box-content-events">
+                        <div class="title-box-events">
+                            Lorem, ipsum dolor sit amet elit dolor...
+                        </div>
+                        <div class="content-events-box-img">
+                            <i class="far fa-calendar-alt"></i> 20/2020 <i class="far fa-clock"></i> 4pm - 6pm <i class="fas fa-map-marker-alt"></i> 143, City-BR
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="clear"></div>
+
+    <footer>
+        <div class="content-new">
+            <div>
+                <div class="text-area">
+                    <h2>Logo</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae ipsam veniam.</p>
+                    <span><i class="fas fa-phone"></i>&nbsp; (00) 00 0 00000000</span><br>
+                    <span><i class="fas fa-map-marker"></i>&nbsp; Endereço da empresa</span>
+                </div>
+            </div>
+            <div>
+                <div class="menu-footer">
+                    <ul>
+                        <h2>Menu Rodapé 1</h2>
+                        <li><a href="">Menu</a></li>
+                        <li><a href="">Menu</a></li>
+                        <li><a href="">Menu</a></li>
+                        <li><a href="">Menu</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div>
+                <div class="menu-footer">
+                    <ul>
+                        <h2>Menu Rodapé 2</h2>
+                        <li><a href="">Menu</a></li>
+                        <li><a href="">Menu</a></li>
+                        <li><a href="">Menu</a></li>
+                        <li><a href="">Menu</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div>
+                <div class="hours">
+                    <h2>Horário de funcionamento</h2>
+                    <ul>
+                        <li>Segunda 08AM - 2PM</li>
+                        <li>Segunda 08AM - 2PM</li>
+                        <li>Segunda 08AM - 2PM</li>
+                        <li>Segunda 08AM - 2PM</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    
+
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/script.js"></script>
+</body>
+</html>
